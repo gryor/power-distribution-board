@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = pe  5. joulukuuta 2014 23.42.37
+
+BeginCmp
+TimeStamp = /5481FA14;
+Reference = N1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5481FBCA;
+Reference = N2;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5481FBD0;
+Reference = N3;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5481FBD6;
+Reference = N4;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5481FBDC;
+Reference = N5;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821789;
+Reference = N6;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821795;
+Reference = N7;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821842;
+Reference = N8;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821966;
+Reference = N9;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5482196C;
+Reference = N10;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5481FBE2;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5482187D;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821883;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821889;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5482188F;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821895;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5482189B;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /548218A1;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821972;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54821978;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+EndListe
