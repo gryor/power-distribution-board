@@ -3,7 +3,7 @@
   (general
     (links 18)
     (no_connects 0)
-    (area 19.434999 16.825001 61.982143 115.495001)
+    (area 19.434999 21.362599 48.795001 115.495001)
     (thickness 1.6)
     (drawings 50)
     (tracks 28)
@@ -16,18 +16,10 @@
   (layers
     (15 F.Cu signal)
     (0 B.Cu signal)
-    (16 B.Adhes user)
     (17 F.Adhes user)
-    (18 B.Paste user)
     (19 F.Paste user)
-    (20 B.SilkS user)
     (21 F.SilkS user)
-    (22 B.Mask user)
     (23 F.Mask user)
-    (24 Dwgs.User user)
-    (25 Cmts.User user)
-    (26 Eco1.User user)
-    (27 Eco2.User user)
     (28 Edge.Cuts user)
   )
 
@@ -59,7 +51,7 @@
     (aux_axis_origin 176.53 55.88)
     (visible_elements FFFFFFBF)
     (pcbplotparams
-      (layerselection 296222720)
+      (layerselection 279445504)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.150000)
